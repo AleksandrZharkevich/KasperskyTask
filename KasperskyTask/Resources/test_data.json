@@ -1,0 +1,10 @@
+﻿{
+  "auth_url": "https://my.kaspersky.com/",
+  "host": "imap.gmail.com",
+  "port": 993,
+  "useSSL": true,
+  "mailbox_username": "automationtest.noreply",
+  "mailbox_password": "AutomationTest",
+  "kaspersky_account_email": "automationtest.noreply@gmail.com",
+  "kaspersky_account_password": "PasswordForTest17"
+}

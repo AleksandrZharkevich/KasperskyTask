@@ -1,0 +1,12 @@
+﻿{
+  "data": [
+    [ "Windows", "Total Security" ],
+    [ "Windows", "Internet Security" ],
+    [ "Windows", "Anti-Virus" ],
+    [ "Mac", "Internet Security" ],
+    [ "Mac", "Password Manager" ],
+    [ "Android", "Internet Security" ],
+    [ "Android", "Password Manager" ],
+    [ "iOS", "Password Manager" ]
+  ]
+}
